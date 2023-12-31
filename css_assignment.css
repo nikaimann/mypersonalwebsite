@@ -6,7 +6,7 @@ margin: 0;
 padding: 0;
 }
 @font-face {
-font-family: myFirstFont;
+font-family: Poppins-Regular;
 src: url(Poppins-Regular.ttf);
 }
 .threecolumn {
